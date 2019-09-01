@@ -136,7 +136,7 @@ for each_game in range(100):
     scores.append(score)
 
 print(scores)
-print('Average Score:',sum(scores)/len(scores))
+
 
 
 
