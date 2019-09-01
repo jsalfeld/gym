@@ -7,6 +7,7 @@ from keras.optimizers import Adam
 
 
 env = gym.make('CMSHLT-v0')
+
 env.reset()
 goal_steps = 500
 score_requirement = 12
